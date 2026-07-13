@@ -52,7 +52,6 @@ Replace:
 - Google Cloud / Firebase (if you use them)
 - Postman, Docker (if applicable)
 
-> Update this section to match exactly what you’re comfortable with. Keep it honest but aspirational.
 
 ---
 
@@ -68,7 +67,6 @@ Replace:
 
 ## 💼 Featured Projects
 
-> Replace these with your real repositories once you have them. Use clear, outcome‑focused descriptions.
 
 ### 🔹 Project 1 – Full Stack Web App
 
