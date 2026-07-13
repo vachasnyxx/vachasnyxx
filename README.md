@@ -1,23 +1,16 @@
-<!--
-Replace:
-- YOUR_NAME with your real name
-- your-username with your GitHub username
-- your-portfolio-url, your-linkedin-url, etc. with real links
--->
-
 <h1 align="center">Hi, I'm Vachaspati 👋</h1>
 
 <h3 align="center">Full Stack & AI Enthusiast · BCA (AI & Data Science)</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-url" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" alt="Portfolio Badge" />
-  </a>
-  <a href="https://https://www.linkedin.com/in/vachasnyxx/" target="_blank">
+  <a href="https://www.linkedin.com/in/vachaspati-tiwari-150427377/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:nyxxcollege@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  </a>
+  <a href="https://github.com/vachasnyxx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-vachasnyxx-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
 </p>
 
@@ -41,18 +34,14 @@ Replace:
 
 ### Web Development
 
-- **Frontend**: HTML5, CSS3, JavaScript, basic React (or add what you know)
-- **Backend**: Node.js / Express (or PHP if you use it), REST APIs
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: Node.js / Express, REST APIs
 - **Databases**: MySQL / PostgreSQL, MongoDB (NoSQL)
 
 ### Tools & Platforms
 
 - Git & GitHub
 - VS Code
-- Google Cloud / Firebase (if you use them)
-- Postman, Docker (if applicable)
-
-> Update this section to match exactly what you’re comfortable with. Keep it honest but aspirational.
 
 ---
 
@@ -68,38 +57,35 @@ Replace:
 
 ## 💼 Featured Projects
 
-> Replace these with your real repositories once you have them. Use clear, outcome‑focused descriptions.
+> I'm actively building projects — check back soon or explore my repositories below.
 
-### 🔹 Project 1 – Full Stack Web App
+### 🔹 Project 1 – Full Stack Web App *(coming soon)*
 
-**Tech:** React · Node.js · Express · MongoDB  
-**Repo:** [Project‑Name‑1](https://github.com/your-username/your-project-1)  
+**Tech:** React · Node.js · Express · MongoDB
 
-- Built a full stack application with authentication, protected routes, and a clean UI.
-- Implemented REST APIs, form validation, and modular code structure.
-- Focused on real‑world use case (e.g. task manager, notes app, or simple SaaS tool).
-
----
-
-### 🔹 Project 2 – Data Analytics / ML Mini Project
-
-**Tech:** Python · Pandas · Matplotlib · scikit‑learn  
-**Repo:** [Project‑Name‑2](https://github.com/your-username/your-project-2)  
-
-- Performed end‑to‑end data cleaning, exploration, and visualization.
-- Built and evaluated a simple predictive model (e.g. classification/regression).
-- Documented insights and learning outcomes clearly in the project README.
+- Full stack application with authentication, protected routes, and a clean UI.
+- REST APIs, form validation, and modular code structure.
+- Real‑world use case: task manager / notes app / SaaS tool.
 
 ---
 
-### 🔹 Project 3 – Landing Page + Email Capture
+### 🔹 Project 2 – Data Analytics / ML Mini Project *(coming soon)*
 
-**Tech:** HTML · CSS · JavaScript  
-**Repo:** [Project‑Name‑3](https://github.com/your-username/your-project-3)  
+**Tech:** Python · Pandas · Matplotlib · scikit‑learn
 
-- Designed a conversion‑focused landing page for a fictional info product/SaaS.
-- Integrated an email capture form (can be mock or connected to a real service).
-- Applied copywriting principles to headlines, body copy, and call‑to‑action.
+- End‑to‑end data cleaning, exploration, and visualization.
+- Simple predictive model (classification/regression).
+- Insights and learning outcomes documented in the project README.
+
+---
+
+### 🔹 Project 3 – Landing Page + Email Capture *(coming soon)*
+
+**Tech:** HTML · CSS · JavaScript
+
+- Conversion‑focused landing page for a fictional info product/SaaS.
+- Email capture form integrated with a real service.
+- Copywriting principles applied to headlines, body copy, and CTA.
 
 ---
 
@@ -107,7 +93,7 @@ Replace:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=your-vachasnyxx&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=vachasnyxx&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
@@ -121,37 +107,33 @@ Replace:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vachasnyxx&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
-
 
 ---
 
 ## 🧩 Problem Solving & Competitive Programming
 
 - Practicing **DSA** daily (arrays, linked lists, trees, graphs, DP, etc.).
-- Solving challenges on platforms like LeetCode .
+- Solving challenges on **LeetCode**.
 - Focusing on clean, readable solutions and time–space complexity.
-
 
 ---
 
-## 🎯 What I’m Looking For
+## 🎯 What I'm Looking For
 
 - **Internships / entry‑level roles** in full stack development or data‑oriented roles.
-- **Freelance opportunities** in:
-  - Web development (landing pages, dashboards, SaaS tools).
+- **Freelance opportunities** in web development (landing pages, dashboards, SaaS tools).
 - Collaborations on open source projects related to **web dev, AI, or developer tooling**.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vachaspati-tiwari-150427377/
-- 🌐 Portfolio:
-- 📩 Email: nyxxcollege@gmail.com
-- 🧱 GitHub: https://github.com/vachasnyxx
+- 💼 LinkedIn: [linkedin.com/in/vachaspati-tiwari-150427377](https://www.linkedin.com/in/vachaspati-tiwari-150427377/)
+- 📩 Email: [nyxxcollege@gmail.com](mailto:nyxxcollege@gmail.com)
+- 🧱 GitHub: [github.com/vachasnyxx](https://github.com/vachasnyxx)
 
-If you’re working on something interesting in **full stack development, AI/data, or digital marketing**, feel free to reach out — I’m always open to learning and collaborating.
+If you're working on something interesting in **full stack development, AI/data, or digital marketing**, feel free to reach out — I'm always open to learning and collaborating.
